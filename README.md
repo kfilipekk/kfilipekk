@@ -16,7 +16,6 @@ I'm a second-year Engineering student at the University of Cambridge with a pass
 </picture>
 </p>
 
-💻 Tech Stack
 <p align="center">
 <strong>Languages:</strong><br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -42,12 +41,10 @@ I'm a second-year Engineering student at the University of Cambridge with a pass
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 <img src="https://img.shields.io/badge/KiCad-314193?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
 <img src="https://img.shields.io/badge/LTSpice-B60A0A?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTSpice"/>
-<img src="https://img.shields.io/badge/PicoScope-0057AA?style=for-the-badge&logoColor=white" alt="PicoScope"/>
 <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
 </p>
