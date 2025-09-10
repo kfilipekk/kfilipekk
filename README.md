@@ -6,7 +6,7 @@ Hi! I'm Krystian Filipek
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-I'm a second-year Engineering student at the University of Cambridge with a passion for embedded systems and space. I’m currently working on a LoRa-based telemetry system for Cambridge University Spaceflight. I'm also working on a bioamplifier for my robot arm.
+I'm a second-year Engineering student at the University of Cambridge with a passion for embedded systems and space. I’m currently working on a LoRa-based telemetry system for Cambridge University Spaceflight. I'm also working on a bioamplifier for my 6DOF robot arm.
 
 <p align="center">
 <picture>
