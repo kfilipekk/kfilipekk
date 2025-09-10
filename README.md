@@ -47,4 +47,5 @@ I'm a second-year Engineering student at the University of Cambridge with a pass
 <img src="https://img.shields.io/badge/KiCad-314193?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
 <img src="https://img.shields.io/badge/LTSpice-B60A0A?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTSpice"/>
 <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
+<img src="https://img.shields.io/badge/PicoScope-0057AA?style=for-the-badge&logoColor=white" alt="PicoScope"/>
 </p>
