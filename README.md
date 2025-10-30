@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-Hi! I'm Krystian Filipek. I'm a second-year Engineering student at the University of Cambridge with a passion for embedded systems and space. I’m currently working on software and electronics for the Lander Challenge in Cambridge University Spaceflight. I'm also working on a bioamplifier for my 6DOF robot arm.
+Hi! I'm Krystian Filipek. I'm a second-year Engineering student at the University of Cambridge with a passion for embedded systems and hardware. I’m currently working on software and electronics for the Lander Challenge in Cambridge University Spaceflight. I'm also working on a bioamplifier for my 6DOF robot arm.
 
 <p align="center">
 <picture>
