@@ -30,6 +30,8 @@ Hi! I'm Krystian Filipek. I'm a second-year Engineering student at the Universit
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Verilog-EDA135?style=for-the-badge&logoColor=white" alt="Verilog"/>
+
 </p>
 <p align="center">
 <strong>Frameworks & Libraries:</strong><br>
