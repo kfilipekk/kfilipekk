@@ -11,14 +11,14 @@ Hi! I'm Krystian Filipek. I'm a second-year Engineering student at the Universit
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=HTML"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=HTML"
   >
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=HTML"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=HTML"
   >
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=HTML" 
+    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=HTML" 
   />
 </picture>
 </p>
