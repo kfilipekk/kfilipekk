@@ -11,14 +11,14 @@ Hi! I'm Krystian Filipek. I'm a third-year Engineering student at the University
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&v=5"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6"
   >
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook&v=5"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6"
   >
   <img 
-    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&v=5" 
+    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6" 
   />
 </picture>
 </p>
