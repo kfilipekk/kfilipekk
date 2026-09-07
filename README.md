@@ -5,20 +5,20 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-Hi! I'm Krystian Filipek. I'm a third-year Engineering student at the University of Cambridge with a passion for embedded systems and hardware. I’m currently working on software and electronics for the Lander Challenge in Cambridge University Spaceflight. I'm also working on a custom flight controller for my GNSS denied LEO satellite navigated drone.
+Hi! I'm Krystian Filipek. I'm a third-year Engineering student at the University of Cambridge with a passion for embedded systems and hardware. I'm currently working on software and electronics for the Lander Challenge in Cambridge University Spaceflight. I'm also working on a custom flight controller for my GNSS denied LEO satellite navigated drone.
 
 <p align="center">
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8"
   >
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8"
   >
   <img 
-    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook&exclude_repo=iridium_drone&size_weight=0&count_weight=1&v=6" 
+    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8" 
   />
 </picture>
 </p>
