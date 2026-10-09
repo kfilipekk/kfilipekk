@@ -11,14 +11,14 @@ Hi! I'm Krystian Filipek. I'm a third-year Engineering student at the University
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=9"
   >
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8"
+    srcset="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=graywhite&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=9"
   >
   <img 
-    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=8" 
+    src="https://github-readme-stats-chi-red-48.vercel.app/api/top-langs/?username=kfilipekk&layout=compact&theme=tokyonight&hide=TeX,Jupyter+Notebook,HTML,CMake,Batchfile,Kotlin,OpenSCAD,Shell,Lua,Makefile,GLSL,Tcl&exclude_repo=FloodSystem,Cargo-Bot&size_weight=0.5&count_weight=0.5&langs_count=6&v=9" 
   />
 </picture>
 </p>
